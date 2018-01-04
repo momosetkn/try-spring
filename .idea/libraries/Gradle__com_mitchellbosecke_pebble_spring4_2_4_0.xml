@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mitchellbosecke:pebble-spring4:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mitchellbosecke/pebble-spring4/2.4.0/b2811c36eef6f50c6c3ddcdc54d4a7b7094e693e/pebble-spring4-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mitchellbosecke/pebble-spring4/2.4.0/f65a06dcf1c4f7de8cc1bdf8876c45cc30bc8aa9/pebble-spring4-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

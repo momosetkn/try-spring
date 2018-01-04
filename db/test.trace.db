@@ -1,0 +1,4 @@
+2018-01-04 18:58:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: テーブル "LOG" が見つかりません
+Table "LOG" not found; SQL statement:
+select * from log  [42102-196]
